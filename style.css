@@ -1,0 +1,47 @@
+body {
+  padding-bottom: 20px;
+  background-color: #eadeda;
+}
+
+.textbar {
+  text-align: left;
+  margin-left: 5px;
+  color: white;
+  font-weight: bold;
+}
+
+.card {
+  width: 350px;
+}
+
+.cardimg {
+    height:220px; !important
+}
+
+.cardDetail {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-width: 0px;
+    border-style: solid;
+    width:1100px;
+}
+
+
+.optSelected, .rdSelected {
+    color: forestgreen;
+    background-color: transparent;
+    font-size:1.2em;
+    margin-left:5px;
+}
+
+
+.cardBreakfast, .cardSightseeing {
+    height: 420px;
+}
+
+
+.infobooking {
+    height: 30px;
+    margin-bottom: 15px;
+}
+
