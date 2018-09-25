@@ -1,4 +1,4 @@
-# byh2
+# Book your holidays 2
 
 Book holidays with parallax is a variant example of book holidays with parallax effect on the top image.
 
